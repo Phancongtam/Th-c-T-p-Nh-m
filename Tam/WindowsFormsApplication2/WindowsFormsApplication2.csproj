@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4ADB846F-0B6E-4AA0-8254-DE27D066C174}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CTHDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CTHDB.Designer.cs">
+      <DependentUpon>CTHDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CTHDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CTHDN.Designer.cs">
+      <DependentUpon>CTHDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delegate.cs" />
+    <Compile Include="DMNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DMNCC.Designer.cs">
+      <DependentUpon>DMNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.cs">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HDB.Designer.cs">
+      <DependentUpon>HDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HDN.Designer.cs">
+      <DependentUpon>HDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KH.Designer.cs">
+      <DependentUpon>KH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOAI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOAI.Designer.cs">
+      <DependentUpon>LOAI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV.Designer.cs">
+      <DependentUpon>NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="qltk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qltk.Designer.cs">
+      <DependentUpon>qltk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SP.Designer.cs">
+      <DependentUpon>SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tao_tk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tao_tk.Designer.cs">
+      <DependentUpon>tao_tk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TKHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TKHH.Designer.cs">
+      <DependentUpon>TKHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_hdb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_hdb.Designer.cs">
+      <DependentUpon>user_hdb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_hdn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_hdn.Designer.cs">
+      <DependentUpon>user_hdn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_kh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_kh.Designer.cs">
+      <DependentUpon>user_kh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_nv.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_nv.Designer.cs">
+      <DependentUpon>user_nv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_sp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="user_sp.Designer.cs">
+      <DependentUpon>user_sp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CTHDB.resx">
+      <DependentUpon>CTHDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CTHDN.resx">
+      <DependentUpon>CTHDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DMNCC.resx">
+      <DependentUpon>DMNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HDB.resx">
+      <DependentUpon>HDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HDN.resx">
+      <DependentUpon>HDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KH.resx">
+      <DependentUpon>KH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOAI.resx">
+      <DependentUpon>LOAI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV.resx">
+      <DependentUpon>NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="qltk.resx">
+      <DependentUpon>qltk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SP.resx">
+      <DependentUpon>SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tao_tk.resx">
+      <DependentUpon>tao_tk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TKHH.resx">
+      <DependentUpon>TKHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_hdb.resx">
+      <DependentUpon>user_hdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_hdn.resx">
+      <DependentUpon>user_hdn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_kh.resx">
+      <DependentUpon>user_kh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_nv.resx">
+      <DependentUpon>user_nv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_sp.resx">
+      <DependentUpon>user_sp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

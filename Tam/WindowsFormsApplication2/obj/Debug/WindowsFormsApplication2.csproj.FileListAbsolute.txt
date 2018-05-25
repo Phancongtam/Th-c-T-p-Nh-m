@@ -1,0 +1,118 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\QLBCF\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QLBCF\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Documents\TTN\TTN\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDB.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDN.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DMNCC.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDB.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDN.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.KH.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LOAI.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NV.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SP.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TKHH.resources
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\TTN\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDB.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDN.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DMNCC.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDB.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDN.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.KH.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LOAI.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NV.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SP.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TKHH.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\quanlycafe\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDB.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDN.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DMNCC.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDB.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDN.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.KH.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LOAI.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NV.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SP.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TKHH.resources
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vaio\Desktop\TTN-master\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.tao_tk.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDB.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDN.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DMNCC.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDB.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDN.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.KH.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LOAI.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NV.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SP.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.tao_tk.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TKHH.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.qltk.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_kh.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_nv.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_hdb.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_hdn.resources
+C:\Users\Vaio\Desktop\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_sp.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDB.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CTHDN.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DMNCC.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDB.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.HDN.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.KH.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LOAI.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NV.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.qltk.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SP.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.tao_tk.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TKHH.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_hdb.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_hdn.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_kh.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_nv.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.user_sp.resources
+D:\Thuc tap nhom\Bai-Nam\nam_sua\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

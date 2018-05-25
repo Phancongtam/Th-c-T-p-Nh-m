@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.exe.config
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.exe
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.pdb
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.Form1.resources
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.exe
+C:\Users\user\Desktop\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.pdb
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.exe.config
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.exe
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.pdb
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.exe
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\bin\Debug\qlpm.pdb
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.csprojResolveAssemblyReference.cache
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.Form1.resources
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.Properties.Resources.resources
+D:\Thuc tap nhom\CGIUA KY\New folder (2)\qlpm\qlpm\obj\Debug\qlpm.csproj.GenerateResource.Cache
